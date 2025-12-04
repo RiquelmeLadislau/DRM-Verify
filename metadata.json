@@ -1,0 +1,5 @@
+{
+  "name": "DRM Verify",
+  "description": "Um Micro SaaS avançado de verificação de conteúdo com IA. Detecta fake news, analisa confiabilidade e sugere melhorias editoriais usando Gemini 2.5 com Google Search grounding.",
+  "requestFramePermissions": []
+}
